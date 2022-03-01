@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 | React Hooks  | React Hooks |
 | ------------- | ------------- |
-| [![Use Context](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=React_Use_Context&show_owner=true)](https://github.com/Roy6250/React_Use_Context)  |  |
+| [![Use Context](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=React_Use_Context&show_owner=true)](https://github.com/Roy6250/React_Use_Context)  | [![Cocktail React](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Cocktail-React&show_owner=true)](https://github.com/Roy6250/Cocktail-React) |
 
