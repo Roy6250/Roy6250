@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 | Full Stack(Blockchain) | Full Stack (CRUD) | Full Stack (ML) |
 | ------------- | ------------- |------------- |
 | [![Crime-Records-Blockchain](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Crime-Records-Blockchain&show_owner=true)](https://github.com/Roy6250/Crime-Records-Blockchain)  | [![Mission-Control-Project](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Mission-Control-Project&show_owner=true)](https://github.com/Roy6250/Mission-Control-Project) | [![Toxic-Comment-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Toxic-Comment-Classification&show_owner=true)](https://github.com/Roy6250/Toxic-Comment-Classification) |
-| | [![Furniture-Shop](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Furniture-Shop&show_owner=true)](https://github.com/Roy6250/Furniture-Shop)  |
+| | [![Furniture-Shop](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Furniture-Shop&show_owner=true)](https://github.com/Roy6250/Furniture-Shop)  | [![RAG LLM Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Rag-Chatbot&show_owner=true)](https://github.com/Roy6250/Rag-Chatbot)  |
 
 
 | Android Projects  | Android Projects |
