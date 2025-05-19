@@ -8,7 +8,7 @@ I’m a **Machine Learning Engineer** and **AI Engineer** with a passion for bui
 - 🧠 Currently exploring **RAG (Retrieval-Augmented Generation)**, **Transformer Fine-Tuning**, and **Vector Databases**.
 - 🛠️ I'm interested in applying ML to domains like education, healthcare, and real-time AI assistance.
 - 🤝 I’m looking to collaborate on **LLM-based projects**, **AI research**, or any impactful ML applications.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/your-link) or [Email](mailto:your-email@example.com)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sayantan-roy-764773126/) or [Email](mailto:roysayantan.blr99@gmail.com)
 
 ---
 
@@ -18,11 +18,12 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🚀 Highlighted Projects
 
-
 | ML/AI Projects | ML/AI Projects |
 | ------------- | ------------- |
 | [![Toxic Comment Classification](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Toxic-Comment-Classification&show_owner=true)](https://github.com/Roy6250/Toxic-Comment-Classification) | [![RAG LLM Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Rag-Chatbot&show_owner=true)](https://github.com/Roy6250/Rag-Chatbot) |
 | [![ML & DL Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=ML_models&show_owner=true)](https://github.com/Roy6250/ML_models) | [![Fine-Tuned Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Fine-Tuned-Models&show_owner=true)](https://github.com/Roy6250/Fine-Tuned-Models) |
+| [![Two-Tower Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Two-Tower-Recommendation-System&show_owner=true)](https://github.com/Roy6250/Two-Tower-Recommendation-System) |  |
+
 
 
 ---
