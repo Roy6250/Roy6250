@@ -20,11 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 | ML/AI Projects | ML/AI Projects |
 | ------------- | ------------- |
-| [![Toxic Comment Classification](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Toxic-Comment-Classification&show_owner=true)](https://github.com/Roy6250/Toxic-Comment-Classification) | [![RAG LLM Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Rag-Chatbot&show_owner=true)](https://github.com/Roy6250/Rag-Chatbot) |
-| [![ML & DL Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=ML_models&show_owner=true)](https://github.com/Roy6250/ML_models) | [![Fine-Tuned Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Fine-Tuned-Models&show_owner=true)](https://github.com/Roy6250/Fine-Tuned-Models) |
-| [![Two-Tower Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Two-Tower-Recommendation-System&show_owner=true)](https://github.com/Roy6250/Two-Tower-Recommendation-System) |  |
-
-
+| [![Mini Decoder](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=mini-decoder&show_owner=true)](https://github.com/Roy6250/mini-decoder) | [![AutoEncoders](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=AutoEncoders&show_owner=true)](https://github.com/Roy6250/AutoEncoders) |
+| [![RAG LLM Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Rag-Chatbot&show_owner=true)](https://github.com/Roy6250/Rag-Chatbot) | [![ML & DL Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=ML_models&show_owner=true)](https://github.com/Roy6250/ML_models) |
+| [![Fine-Tuned Models](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Fine-Tuned-Models&show_owner=true)](https://github.com/Roy6250/Fine-Tuned-Models) | [![Two-Tower Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Roy6250&repo=Two-Tower-Recommendation-System&show_owner=true)](https://github.com/Roy6250/Two-Tower-Recommendation-System) |
 
 ---
 
